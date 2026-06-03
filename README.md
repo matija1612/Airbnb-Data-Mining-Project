@@ -1,5 +1,4 @@
 # Airbnb-Data-Mining-Project
-Analiza čimbenika koji utječu na cijenu i popularnost Airbnb smještaja
 # Analiza čimbenika koji utječu na cijenu i popularnost Airbnb smještaja primjenom metoda dubinske analize podataka
 
 ## Autori
@@ -11,4 +10,7 @@ Analiza čimbenika koji utječu na cijenu i popularnost Airbnb smještaja
 
 Cilj projekta je analizirati čimbenike koji utječu na cijenu i popularnost Airbnb smještaja koristeći metode dubinske analize i otkrivanja znanja iz podataka.
 
-Projekt obuhvaća obradu i čišćenje podataka, deskriptivnu analizu, konstrukciju novih značajki (feature engineering), grupiranje objekata, otkrivanje asocijacijskih pravila te izradu prediktivnih modela.
+Projekt obuhvaća obradu i čišćenje podataka, deskriptivnu analizu, konstrukciju novih značajki (feature engineering), grupiranje objekata, izradu prediktivnih modela, klasteriranje i otkrivanje asocijacijskih pravila.
+
+Pri izradi projekta korišten je skup podataka: https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata?resource=download
+[zadnji put pristupljeno: 3.6.2026.]
